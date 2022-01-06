@@ -8,7 +8,7 @@ ESP8266
 [Wemos D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html)  
 Neopixel  
 I use the single LED shield  
-[WS2812B RGB shield](https://www.wemos.cc/en/latest/d1/d1_mini.html)  
+[WS2812B RGB shield](https://www.aliexpress.com/item/32757360867.html)  
 
 Solder the top and  bottom through-pin headers onto the Wemos board and attach the neopixel shield on top, making sure you get it the right way round (so all the pin labels align correctly).
 
