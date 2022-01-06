@@ -40,5 +40,5 @@ Print the base and top in translucent filament on “normal” setting (takes ab
 Connect your CheerOrb to your WiFi using the instructions here: [CheerOrb instructions](https://cheerlights.com/orb).
 
 
-** Have fun :) **
+**Have fun :)**
 
