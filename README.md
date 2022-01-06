@@ -10,6 +10,11 @@ Neopixel
 I use the single LED shield  
 [WS2812B RGB shield](https://www.aliexpress.com/item/32757360867.html)  
 
+If you choose to use the 7-LED shield from LOLIN [RGB LED Shield](https://www.wemos.cc/en/latest/d1_mini_shield/rgb_led.html) change line `70` of the sketch from
+`Adafruit_NeoPixel pixel = Adafruit_NeoPixel(1, D2, ORDER); // 1 pixels on pin D2`  
+to  
+`Adafruit_NeoPixel pixel = Adafruit_NeoPixel(7, D4, ORDER); // 7 pixels on pin D4`
+
 Solder the top and  bottom through-pin headers onto the Wemos board and attach the neopixel shield on top, making sure you get it the right way round (so all the pin labels align correctly).
 
 Power with a Micro-USB cable.
