@@ -10,7 +10,7 @@ Neopixel
 I use the single LED shield  
 [WS2812B RGB shield](https://www.aliexpress.com/item/32757360867.html)  
 
-If you choose to use the 7-LED shield from LOLIN [RGB LED Shield](https://www.wemos.cc/en/latest/d1_mini_shield/rgb_led.html) change line `70` of the sketch from
+If you choose to use the 7-LED shield from LOLIN [RGB LED Shield](https://www.wemos.cc/en/latest/d1_mini_shield/rgb_led.html) change line `70` of the sketch from  
 `Adafruit_NeoPixel pixel = Adafruit_NeoPixel(1, D2, ORDER); // 1 pixels on pin D2`  
 to  
 `Adafruit_NeoPixel pixel = Adafruit_NeoPixel(7, D4, ORDER); // 7 pixels on pin D4`
