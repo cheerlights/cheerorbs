@@ -5,7 +5,7 @@ Here is the Arduino code and the 3D printer STL files to make your own CheerOrb.
 ## Hardware
 
 ESP8266  
-[Wemos D1 mini](https://www.wemos.cc/en/latest/d1/d1_mini.html)  
+[Wemos D1 mini](https://www.aliexpress.com/item/32651256441.html)  
 Neopixel  
 I use the single LED shield  
 [WS2812B RGB shield](https://www.aliexpress.com/item/32757360867.html)  
